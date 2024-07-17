@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 config.py
+=======
+# API keys
+NPS_config.py
+>>>>>>> 523ff22704afcb8a50c7ccdd8234dc860b4c3ecf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
