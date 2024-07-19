@@ -1,4 +1,4 @@
-id,name,category
+amenity_id,amenity_name,amenity_category
 A1B0AD01-740C-41E7-8412-FBBEDD5F1443,ATM/Cash Machine,"Convenience, Souvenirs and Supplies"
 4E4D076A-6866-46C8-A28B-A129E2B8F3DB,Accessible Rooms,Accessibility
 04D29064-B9A1-4031-AD0E-98E31EF69604,Accessible Sites,Accessibility

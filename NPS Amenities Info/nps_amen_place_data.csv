@@ -1,4 +1,4 @@
-id,name,parkCode,fullName,states,designation,url
+amenity_id,amenity_name,park_code,park_name,park_states,park_designation,park_url
 A1B0AD01-740C-41E7-8412-FBBEDD5F1443,ATM/Cash Machine,badl,Badlands National Park,SD,National Park,http://www.nps.gov/badl/
 A1B0AD01-740C-41E7-8412-FBBEDD5F1443,ATM/Cash Machine,bibe,Big Bend National Park,TX,National Park,http://www.nps.gov/bibe/
 A1B0AD01-740C-41E7-8412-FBBEDD5F1443,ATM/Cash Machine,brca,Bryce Canyon National Park,UT,National Park,http://www.nps.gov/brca/
