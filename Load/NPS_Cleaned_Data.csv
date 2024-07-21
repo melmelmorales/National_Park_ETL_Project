@@ -1,0 +1,681 @@
+Park Designation,Park Code,Park Name,Present in States,Free Entrance,Entrance Fee,Park Website,Activity Option,Available Amenity,Park Latitude,Park Longitude,Entrance Fees
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Astronomy,ATM/Cash Machine,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Auto and ATV,ATM/Cash Machine,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Biking,ATM/Cash Machine,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Camping,ATM/Cash Machine,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Compass and GPS,ATM/Cash Machine,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Food,ATM/Cash Machine,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Hiking,ATM/Cash Machine,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Horse Trekking,ATM/Cash Machine,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Junior Ranger Program,ATM/Cash Machine,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Park Film,ATM/Cash Machine,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Shopping,ATM/Cash Machine,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Wildlife Watching,ATM/Cash Machine,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Astronomy,Accessible Rooms,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Auto and ATV,Accessible Rooms,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Biking,Accessible Rooms,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Camping,Accessible Rooms,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Compass and GPS,Accessible Rooms,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Food,Accessible Rooms,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Hiking,Accessible Rooms,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Horse Trekking,Accessible Rooms,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Junior Ranger Program,Accessible Rooms,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Park Film,Accessible Rooms,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Shopping,Accessible Rooms,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Wildlife Watching,Accessible Rooms,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Astronomy,Accessible Sites,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Auto and ATV,Accessible Sites,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Biking,Accessible Sites,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Camping,Accessible Sites,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Compass and GPS,Accessible Sites,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Food,Accessible Sites,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Hiking,Accessible Sites,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Horse Trekking,Accessible Sites,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Junior Ranger Program,Accessible Sites,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Park Film,Accessible Sites,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Shopping,Accessible Sites,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Wildlife Watching,Accessible Sites,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Astronomy,Amphitheater,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Auto and ATV,Amphitheater,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Biking,Amphitheater,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Camping,Amphitheater,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Compass and GPS,Amphitheater,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Food,Amphitheater,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Hiking,Amphitheater,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Horse Trekking,Amphitheater,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Junior Ranger Program,Amphitheater,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Park Film,Amphitheater,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Shopping,Amphitheater,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Wildlife Watching,Amphitheater,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Astronomy,Benches/Seating,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Auto and ATV,Benches/Seating,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Biking,Benches/Seating,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Camping,Benches/Seating,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Compass and GPS,Benches/Seating,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Food,Benches/Seating,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Hiking,Benches/Seating,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Horse Trekking,Benches/Seating,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Junior Ranger Program,Benches/Seating,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Park Film,Benches/Seating,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Shopping,Benches/Seating,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Wildlife Watching,Benches/Seating,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Astronomy,Entrance Passes for Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Auto and ATV,Entrance Passes for Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Biking,Entrance Passes for Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Camping,Entrance Passes for Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Compass and GPS,Entrance Passes for Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Food,Entrance Passes for Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Hiking,Entrance Passes for Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Horse Trekking,Entrance Passes for Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Junior Ranger Program,Entrance Passes for Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Park Film,Entrance Passes for Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Shopping,Entrance Passes for Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Wildlife Watching,Entrance Passes for Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Astronomy,Food/Drink - Bar/Alcohol For Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Auto and ATV,Food/Drink - Bar/Alcohol For Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Biking,Food/Drink - Bar/Alcohol For Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Camping,Food/Drink - Bar/Alcohol For Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Compass and GPS,Food/Drink - Bar/Alcohol For Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Food,Food/Drink - Bar/Alcohol For Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Hiking,Food/Drink - Bar/Alcohol For Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Horse Trekking,Food/Drink - Bar/Alcohol For Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Junior Ranger Program,Food/Drink - Bar/Alcohol For Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Park Film,Food/Drink - Bar/Alcohol For Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Shopping,Food/Drink - Bar/Alcohol For Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Wildlife Watching,Food/Drink - Bar/Alcohol For Sale,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Astronomy,Food/Drink - Cafeteria,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Auto and ATV,Food/Drink - Cafeteria,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Biking,Food/Drink - Cafeteria,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Camping,Food/Drink - Cafeteria,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Compass and GPS,Food/Drink - Cafeteria,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Food,Food/Drink - Cafeteria,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Hiking,Food/Drink - Cafeteria,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Horse Trekking,Food/Drink - Cafeteria,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Junior Ranger Program,Food/Drink - Cafeteria,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Park Film,Food/Drink - Cafeteria,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Shopping,Food/Drink - Cafeteria,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Wildlife Watching,Food/Drink - Cafeteria,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Astronomy,Food/Drink - Coffee,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Auto and ATV,Food/Drink - Coffee,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Biking,Food/Drink - Coffee,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Camping,Food/Drink - Coffee,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Compass and GPS,Food/Drink - Coffee,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Food,Food/Drink - Coffee,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Hiking,Food/Drink - Coffee,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Horse Trekking,Food/Drink - Coffee,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Junior Ranger Program,Food/Drink - Coffee,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Park Film,Food/Drink - Coffee,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Shopping,Food/Drink - Coffee,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Wildlife Watching,Food/Drink - Coffee,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Astronomy,Food/Drink - Restaurant/Table Service,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Auto and ATV,Food/Drink - Restaurant/Table Service,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Biking,Food/Drink - Restaurant/Table Service,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Camping,Food/Drink - Restaurant/Table Service,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Compass and GPS,Food/Drink - Restaurant/Table Service,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Food,Food/Drink - Restaurant/Table Service,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Hiking,Food/Drink - Restaurant/Table Service,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Horse Trekking,Food/Drink - Restaurant/Table Service,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Junior Ranger Program,Food/Drink - Restaurant/Table Service,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Park Film,Food/Drink - Restaurant/Table Service,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Shopping,Food/Drink - Restaurant/Table Service,43.68584846,-102.482942,$355.00
+National Park,badl,Badlands National Park,SD,False,355.0,http://www.nps.gov/badl/,Wildlife Watching,Food/Drink - Restaurant/Table Service,43.68584846,-102.482942,$355.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,ATM/Cash Machine,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,ATM/Cash Machine,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,ATM/Cash Machine,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,ATM/Cash Machine,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,ATM/Cash Machine,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,ATM/Cash Machine,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,ATM/Cash Machine,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,ATM/Cash Machine,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,ATM/Cash Machine,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,ATM/Cash Machine,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,ATM/Cash Machine,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,ATM/Cash Machine,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Accessible Rooms,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Accessible Rooms,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Accessible Rooms,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Accessible Rooms,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Accessible Rooms,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Accessible Rooms,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Accessible Rooms,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Accessible Rooms,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Accessible Rooms,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Accessible Rooms,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Accessible Rooms,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Accessible Rooms,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Amphitheater,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Amphitheater,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Amphitheater,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Amphitheater,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Amphitheater,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Amphitheater,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Amphitheater,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Amphitheater,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Amphitheater,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Amphitheater,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Amphitheater,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Amphitheater,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Animal-Safe Food Storage,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Animal-Safe Food Storage,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Animal-Safe Food Storage,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Animal-Safe Food Storage,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Animal-Safe Food Storage,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Animal-Safe Food Storage,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Animal-Safe Food Storage,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Animal-Safe Food Storage,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Animal-Safe Food Storage,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Animal-Safe Food Storage,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Animal-Safe Food Storage,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Animal-Safe Food Storage,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Automated External Defibrillator (AED),29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Automated External Defibrillator (AED),29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Automated External Defibrillator (AED),29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Automated External Defibrillator (AED),29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Automated External Defibrillator (AED),29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Automated External Defibrillator (AED),29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Automated External Defibrillator (AED),29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Automated External Defibrillator (AED),29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Automated External Defibrillator (AED),29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Automated External Defibrillator (AED),29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Automated External Defibrillator (AED),29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Automated External Defibrillator (AED),29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Beach/Water Access,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Beach/Water Access,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Beach/Water Access,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Beach/Water Access,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Beach/Water Access,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Beach/Water Access,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Beach/Water Access,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Beach/Water Access,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Beach/Water Access,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Beach/Water Access,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Beach/Water Access,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Beach/Water Access,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Benches/Seating,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Benches/Seating,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Benches/Seating,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Benches/Seating,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Benches/Seating,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Benches/Seating,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Benches/Seating,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Benches/Seating,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Benches/Seating,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Benches/Seating,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Benches/Seating,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Benches/Seating,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Bicycle - Rack,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Bicycle - Rack,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Bicycle - Rack,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Bicycle - Rack,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Bicycle - Rack,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Bicycle - Rack,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Bicycle - Rack,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Bicycle - Rack,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Bicycle - Rack,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Bicycle - Rack,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Bicycle - Rack,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Bicycle - Rack,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Canoe/Kayak/Small Boat Launch,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Canoe/Kayak/Small Boat Launch,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Canoe/Kayak/Small Boat Launch,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Canoe/Kayak/Small Boat Launch,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Canoe/Kayak/Small Boat Launch,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Canoe/Kayak/Small Boat Launch,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Canoe/Kayak/Small Boat Launch,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Canoe/Kayak/Small Boat Launch,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Canoe/Kayak/Small Boat Launch,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Canoe/Kayak/Small Boat Launch,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Canoe/Kayak/Small Boat Launch,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Canoe/Kayak/Small Boat Launch,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Cellular Signal,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Cellular Signal,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Cellular Signal,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Cellular Signal,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Cellular Signal,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Cellular Signal,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Cellular Signal,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Cellular Signal,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Cellular Signal,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Cellular Signal,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Cellular Signal,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Cellular Signal,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Entrance Passes for Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Entrance Passes for Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Entrance Passes for Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Entrance Passes for Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Entrance Passes for Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Entrance Passes for Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Entrance Passes for Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Entrance Passes for Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Entrance Passes for Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Entrance Passes for Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Entrance Passes for Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Entrance Passes for Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Ferry - Passenger,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Ferry - Passenger,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Ferry - Passenger,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Ferry - Passenger,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Ferry - Passenger,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Ferry - Passenger,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Ferry - Passenger,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Ferry - Passenger,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Ferry - Passenger,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Ferry - Passenger,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Ferry - Passenger,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Ferry - Passenger,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Fire Extinguisher,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Fire Extinguisher,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Fire Extinguisher,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Fire Extinguisher,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Fire Extinguisher,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Fire Extinguisher,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Fire Extinguisher,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Fire Extinguisher,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Fire Extinguisher,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Fire Extinguisher,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Fire Extinguisher,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Fire Extinguisher,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,First Aid Kit Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,First Aid Kit Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,First Aid Kit Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,First Aid Kit Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,First Aid Kit Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,First Aid Kit Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,First Aid Kit Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,First Aid Kit Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,First Aid Kit Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,First Aid Kit Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,First Aid Kit Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,First Aid Kit Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,First Aid/Medical Care Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,First Aid/Medical Care Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,First Aid/Medical Care Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,First Aid/Medical Care Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,First Aid/Medical Care Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,First Aid/Medical Care Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,First Aid/Medical Care Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,First Aid/Medical Care Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,First Aid/Medical Care Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,First Aid/Medical Care Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,First Aid/Medical Care Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,First Aid/Medical Care Available,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Food/Drink - Bar/Alcohol For Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Food/Drink - Bar/Alcohol For Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Food/Drink - Bar/Alcohol For Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Food/Drink - Bar/Alcohol For Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Food/Drink - Bar/Alcohol For Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Food/Drink - Bar/Alcohol For Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Food/Drink - Bar/Alcohol For Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Food/Drink - Bar/Alcohol For Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Food/Drink - Bar/Alcohol For Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Food/Drink - Bar/Alcohol For Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Food/Drink - Bar/Alcohol For Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Food/Drink - Bar/Alcohol For Sale,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Food/Drink - Coffee,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Food/Drink - Coffee,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Food/Drink - Coffee,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Food/Drink - Coffee,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Food/Drink - Coffee,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Food/Drink - Coffee,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Food/Drink - Coffee,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Food/Drink - Coffee,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Food/Drink - Coffee,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Food/Drink - Coffee,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Food/Drink - Coffee,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Food/Drink - Coffee,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Food/Drink - Ice Cream,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Food/Drink - Ice Cream,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Food/Drink - Ice Cream,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Food/Drink - Ice Cream,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Food/Drink - Ice Cream,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Food/Drink - Ice Cream,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Food/Drink - Ice Cream,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Food/Drink - Ice Cream,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Food/Drink - Ice Cream,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Food/Drink - Ice Cream,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Food/Drink - Ice Cream,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Food/Drink - Ice Cream,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Astronomy,Food/Drink - Restaurant/Table Service,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Auto and ATV,Food/Drink - Restaurant/Table Service,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Biking,Food/Drink - Restaurant/Table Service,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Camping,Food/Drink - Restaurant/Table Service,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Food,Food/Drink - Restaurant/Table Service,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Guided Tours,Food/Drink - Restaurant/Table Service,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Hiking,Food/Drink - Restaurant/Table Service,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Junior Ranger Program,Food/Drink - Restaurant/Table Service,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Paddling,Food/Drink - Restaurant/Table Service,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Park Film,Food/Drink - Restaurant/Table Service,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Shopping,Food/Drink - Restaurant/Table Service,29.29817767,-103.2297897,$425.00
+National Park,bibe,Big Bend National Park,TX,False,425.0,http://www.nps.gov/bibe/,Wildlife Watching,Food/Drink - Restaurant/Table Service,29.29817767,-103.2297897,$425.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Arts and Culture,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Astronomy,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Biking,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Boating,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Camping,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Climbing,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Compass and GPS,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Fishing,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Food,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Guided Tours,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hands-On,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hiking,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Horse Trekking,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Ice Skating,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Junior Ranger Program,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Paddling,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Park Film,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Shopping,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Skiing,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snow Play,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowmobiling,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowshoeing,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Swimming,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Wildlife Watching,Accessible Rooms,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Arts and Culture,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Astronomy,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Biking,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Boating,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Camping,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Climbing,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Compass and GPS,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Fishing,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Food,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Guided Tours,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hands-On,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hiking,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Horse Trekking,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Ice Skating,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Junior Ranger Program,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Paddling,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Park Film,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Shopping,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Skiing,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snow Play,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowmobiling,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowshoeing,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Swimming,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Wildlife Watching,Audio Description,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Arts and Culture,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Astronomy,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Biking,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Boating,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Camping,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Climbing,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Compass and GPS,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Fishing,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Food,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Guided Tours,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hands-On,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hiking,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Horse Trekking,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Ice Skating,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Junior Ranger Program,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Paddling,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Park Film,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Shopping,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Skiing,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snow Play,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowmobiling,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowshoeing,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Swimming,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Wildlife Watching,Beach/Water Access,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Arts and Culture,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Astronomy,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Biking,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Boating,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Camping,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Climbing,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Compass and GPS,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Fishing,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Food,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Guided Tours,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hands-On,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hiking,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Horse Trekking,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Ice Skating,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Junior Ranger Program,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Paddling,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Park Film,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Shopping,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Skiing,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snow Play,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowmobiling,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowshoeing,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Swimming,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Wildlife Watching,Benches/Seating,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Arts and Culture,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Astronomy,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Biking,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Boating,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Camping,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Climbing,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Compass and GPS,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Fishing,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Food,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Guided Tours,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hands-On,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hiking,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Horse Trekking,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Ice Skating,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Junior Ranger Program,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Paddling,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Park Film,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Shopping,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Skiing,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snow Play,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowmobiling,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowshoeing,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Swimming,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Wildlife Watching,Bicycle - Rack,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Arts and Culture,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Astronomy,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Biking,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Boating,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Camping,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Climbing,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Compass and GPS,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Fishing,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Food,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Guided Tours,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hands-On,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hiking,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Horse Trekking,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Ice Skating,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Junior Ranger Program,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Paddling,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Park Film,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Shopping,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Skiing,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snow Play,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowmobiling,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowshoeing,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Swimming,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Wildlife Watching,Braille,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Arts and Culture,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Astronomy,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Biking,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Boating,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Camping,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Climbing,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Compass and GPS,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Fishing,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Food,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Guided Tours,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hands-On,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hiking,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Horse Trekking,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Ice Skating,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Junior Ranger Program,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Paddling,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Park Film,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Shopping,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Skiing,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snow Play,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowmobiling,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowshoeing,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Swimming,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Wildlife Watching,Bus/Shuttle Stop,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Arts and Culture,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Astronomy,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Biking,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Boating,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Camping,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Climbing,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Compass and GPS,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Fishing,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Food,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Guided Tours,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hands-On,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hiking,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Horse Trekking,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Ice Skating,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Junior Ranger Program,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Paddling,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Park Film,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Shopping,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Skiing,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snow Play,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowmobiling,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowshoeing,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Swimming,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Wildlife Watching,Canoe/Kayak/Small Boat Launch,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Arts and Culture,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Astronomy,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Biking,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Boating,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Camping,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Climbing,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Compass and GPS,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Fishing,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Food,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Guided Tours,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hands-On,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hiking,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Horse Trekking,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Ice Skating,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Junior Ranger Program,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Paddling,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Park Film,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Shopping,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Skiing,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snow Play,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowmobiling,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowshoeing,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Swimming,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Wildlife Watching,Dock/Pier,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Arts and Culture,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Astronomy,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Biking,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Boating,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Camping,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Climbing,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Compass and GPS,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Fishing,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Food,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Guided Tours,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hands-On,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hiking,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Horse Trekking,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Ice Skating,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Junior Ranger Program,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Paddling,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Park Film,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Shopping,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Skiing,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snow Play,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowmobiling,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowshoeing,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Swimming,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Wildlife Watching,Elevator,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Arts and Culture,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Astronomy,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Biking,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Boating,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Camping,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Climbing,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Compass and GPS,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Fishing,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Food,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Guided Tours,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hands-On,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hiking,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Horse Trekking,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Ice Skating,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Junior Ranger Program,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Paddling,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Park Film,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Shopping,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Skiing,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snow Play,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowmobiling,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowshoeing,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Swimming,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Wildlife Watching,Entrance Passes for Sale,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Arts and Culture,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Astronomy,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Biking,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Boating,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Camping,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Climbing,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Compass and GPS,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Fishing,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Food,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Guided Tours,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hands-On,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hiking,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Horse Trekking,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Ice Skating,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Junior Ranger Program,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Paddling,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Park Film,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Shopping,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Skiing,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snow Play,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowmobiling,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowshoeing,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Swimming,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Wildlife Watching,Fire Extinguisher,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Arts and Culture,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Astronomy,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Biking,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Boating,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Camping,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Climbing,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Compass and GPS,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Fishing,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Food,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Guided Tours,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hands-On,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Hiking,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Horse Trekking,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Ice Skating,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Junior Ranger Program,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Paddling,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Park Film,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Shopping,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Skiing,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snow Play,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowmobiling,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Snowshoeing,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Swimming,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,acad,Acadia National Park,ME,False,91.0,http://www.nps.gov/acad/,Wildlife Watching,Food/Drink - Restaurant/Table Service,44.409286,-68.247501,$91.00
+National Park,blca,Black Canyon Of The Gunnison National Park,CO,False,320.0,http://www.nps.gov/blca/,Camping,Accessible Sites,38.57779869,-107.7242756,$320.00
+National Park,blca,Black Canyon Of The Gunnison National Park,CO,False,320.0,http://www.nps.gov/blca/,Climbing,Accessible Sites,38.57779869,-107.7242756,$320.00
+National Park,blca,Black Canyon Of The Gunnison National Park,CO,False,320.0,http://www.nps.gov/blca/,Fishing,Accessible Sites,38.57779869,-107.7242756,$320.00
+National Park,blca,Black Canyon Of The Gunnison National Park,CO,False,320.0,http://www.nps.gov/blca/,Hiking,Accessible Sites,38.57779869,-107.7242756,$320.00
+National Park,blca,Black Canyon Of The Gunnison National Park,CO,False,320.0,http://www.nps.gov/blca/,Horse Trekking,Accessible Sites,38.57779869,-107.7242756,$320.00
+National Park,blca,Black Canyon Of The Gunnison National Park,CO,False,320.0,http://www.nps.gov/blca/,Paddling,Accessible Sites,38.57779869,-107.7242756,$320.00
+National Park,blca,Black Canyon Of The Gunnison National Park,CO,False,320.0,http://www.nps.gov/blca/,Skiing,Accessible Sites,38.57779869,-107.7242756,$320.00
+National Park,blca,Black Canyon Of The Gunnison National Park,CO,False,320.0,http://www.nps.gov/blca/,Snowshoeing,Accessible Sites,38.57779869,-107.7242756,$320.00
+National Park,blca,Black Canyon Of The Gunnison National Park,CO,False,320.0,http://www.nps.gov/blca/,Wildlife Watching,Accessible Sites,38.57779869,-107.7242756,$320.00
+National Park,arch,Arches National Park,UT,False,72.0,http://www.nps.gov/arch/,Arts and Culture,Bicycle - Rack,38.72261844,-109.5863666,$72.00
+National Park,arch,Arches National Park,UT,False,72.0,http://www.nps.gov/arch/,Astronomy,Bicycle - Rack,38.72261844,-109.5863666,$72.00
+National Park,arch,Arches National Park,UT,False,72.0,http://www.nps.gov/arch/,Biking,Bicycle - Rack,38.72261844,-109.5863666,$72.00
+National Park,arch,Arches National Park,UT,False,72.0,http://www.nps.gov/arch/,Camping,Bicycle - Rack,38.72261844,-109.5863666,$72.00
+National Park,arch,Arches National Park,UT,False,72.0,http://www.nps.gov/arch/,Canyoneering,Bicycle - Rack,38.72261844,-109.5863666,$72.00
+National Park,arch,Arches National Park,UT,False,72.0,http://www.nps.gov/arch/,Climbing,Bicycle - Rack,38.72261844,-109.5863666,$72.00
+National Park,arch,Arches National Park,UT,False,72.0,http://www.nps.gov/arch/,Guided Tours,Bicycle - Rack,38.72261844,-109.5863666,$72.00
+National Park,arch,Arches National Park,UT,False,72.0,http://www.nps.gov/arch/,Hiking,Bicycle - Rack,38.72261844,-109.5863666,$72.00
+National Park,arch,Arches National Park,UT,False,72.0,http://www.nps.gov/arch/,Horse Trekking,Bicycle - Rack,38.72261844,-109.5863666,$72.00
+National Park,arch,Arches National Park,UT,False,72.0,http://www.nps.gov/arch/,Junior Ranger Program,Bicycle - Rack,38.72261844,-109.5863666,$72.00
+National Park,arch,Arches National Park,UT,False,72.0,http://www.nps.gov/arch/,Shopping,Bicycle - Rack,38.72261844,-109.5863666,$72.00
