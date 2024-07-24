@@ -11,8 +11,10 @@ This project involves creating ETL (Extract, Transform, Load) workflows to inges
 
 # Interacting with National Park Activities, Amentities, and Weather Data Project Overview
 
+[Placeholder]
+
 ## Chasing Sunshine: Finding the Perfect Weather for Your National Park Adventure
-![Top 5 Values](Extract/NPS_Weather/Images/svm_conf.png)
+![Seasonal Temperatures](Extract/NPS_Weather/Images/svm_conf.png)
 
 # Ethical Considerations
 
