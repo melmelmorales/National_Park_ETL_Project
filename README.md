@@ -1,5 +1,5 @@
-# Team Three - Exploring the Great Outdoors: Weather and Activities Across US National Parks
-Melisa Morales, Victoria Scott, and Stephanie Souza
+# Exploring the Great Outdoors: Weather and Activities Across US National Parks
+Melisa Morales, Victoria Scott, and Stephanie Souza (Team Three)
 
 # Project Overview
 
@@ -18,7 +18,7 @@ This project involves creating ETL (Extract, Transform, Load) workflows to inges
 
 # Ethical Considerations
 
-[Placeholder]
+When extracting amenities, activities, and weather data for US national parks, significant efforts were made to ensure ethical considerations were addressed throughout the process. Team Three ensured data accuracy and integrity by cross-referencing information from multiple reliable sources to avoid the propagation of misinformation. Transparency was maintained by clearly documenting the data sources, transformation processes, and any limitations or biases inherent in the data. These steps were essential to ensure the ethical use of data, safeguarding the interests of both the data providers and the end users who rely on this information for planning their visits to national parks.
 
 # References
 ## Dataset: 
