@@ -1,36 +1,30 @@
-# ETL_Project_Draft
+# Team Three - Exploring the Great Outdoors: Weather and Activities Across US National Parks
+Melisa Morales, Victoria Scott, and Stephanie Souza
 
-### Step-by-Step Setup
+# Project Overview
 
-1. **Clone the Repository**: Clone the project repository to your local machine.
+Our powerpoint presentation can be found at "NPS ETL Team Project 3.pptx"
 
-    ```bash
-    git clone <repository_url>
-    cd ETL_Project
-    ```
+Through the  workflows to ingest data into the database. 
 
-2. **Create and Activate Conda Environment**: Create and activate a new conda environment.
+This project involves creating ETL (Extract, Transform, Load) workflows to ingest and transform data from the National Park Service (NPS) API and Open-Meteo Weather API before storing it in a database. A chosen database, MongoDB, houses the data, comprising at least two tables or collections. The project documentation includes the rationale for the database selection and detailed documentation of the ETL workflow, supported by diagrams or an ERD.
 
-    ```bash
-   
-    conda activate dev environment
-    conda install flask pymongo python-dotenv flask-cors seaborn matplotlib pandas
-    ```
+# Interacting with National Park Activities, Amentities, and Weather Data Project Overview
 
-3. **Install Dependencies**: Install the required Python packages using `pip`.
+## Chasing Sunshine: Finding the Perfect Weather for Your National Park Adventure
+![Top 5 Values](Extract/NPS_Weather/Images/svm_conf.png)
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+# Ethical Considerations
 
-4. **Set Up Environment Variables**: Create a `.env` file in the `flask_app` directory and add your MongoDB connection string.
+[Placeholder]
 
-    ```env
-    MONGO_URI=mongodb://localhost:27017/national_parks_db
-    ```
+# References
+## Dataset: 
+National Park Service (API)
+https://www.nps.gov/subjects/developer/api-documentation.htm
 
-5. **Run the Application**: Use the following command to start the Flask application.
+Open-Meteo Weather (API)
+https://open-meteo.com/
 
-    ```bash
-    flask run
-    ```
+## Team Gitlab
+https://github.com/melmelmorales/ETL_Project
