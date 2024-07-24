@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>National Parks Map</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .map-container {
+            height: 600px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>National Parks Map</h1>
+        <div class="map-container">
+            {{ map_html|safe }}
+        </div>
+        <a href="/" class="btn btn-secondary mt-3">Back to Search</a>
+    </div>
+</body>
+</html>
+

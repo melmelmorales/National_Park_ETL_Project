@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>National Parks Finder</title>
+    <style>
+        .filter-container {
+            display: flex;
+            justify-content: space-between;
+        }
+        #amenities, #activities {
+            height: 200px;
+            width: 300px;
+            border: 1px solid #ccc;
+            overflow-y: scroll;
+            padding: 10px;
+            margin-right: 20px;
+        }
+        .filter-section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>National Parks Finder</h1>
+
+    <form id="filter-form">
+        <div class="filter-container">
+            <div class="filter-section">
+                <h2>Select Amenities</h2>
+                <div id="amenities">
+                    {% for amenity in amenities %}
+                        <input type="checkbox" name="amenity" value="{{ amenity }}">{{ amenity }}<br>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div class="filter-section">
+                <h2>Select Activities</h2>
+                <div id="activities">
+                    {% for activity in activities %}
+                        <input type="checkbox" name="activity" value="{{ activity }}">{{ activity }}<br>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+
+        <div class="filter-section">
+            <h2>Select Season</h2>
+            <select id="season-select" name="season">
+                <option value="summer">Summer</option>
+                <option value="winter">Winter</option>
+                <option value="spring">Spring</option>
+                <option value="fall">Fall</option>
+            </select>
+        </div>
+
+        <button type="button" onclick="filterParks()">Filter Parks</button>
+    </form>
+
+    <div id="map">
+        {{ map_html|safe }}
+    </div>
+
+    <script>
+        function filterParks() {
+            const selectedAmenities = Array.from(document.querySelectorAll('input[name="amenity"]:checked')).map(cb => cb.value);
+            const selectedActivities = Array.from(document.querySelectorAll('input[name="activity"]:checked')).map(cb => cb.value);
+            const selectedSeason = document.querySelector('#season-select').value;
+
+            const data = {
+                selected_amenities: selectedAmenities,
+                selected_activities: selectedActivities,
+                selected_season: selectedSeason
+            };
+
+            fetch('/filter_parks', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('map').innerHTML = data.map_html;
+            })
+            .catch(error => console.error('Error:', error));
+        }
+    </script>
+</body>
+</html>
