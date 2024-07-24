@@ -9,7 +9,7 @@ This project involves creating ETL (Extract, Transform, Load) workflows to inges
 
 # Interacting with National Park Activities, Amentities, and Weather Data Project Overview
 
-[Placeholder]
+Our National Parks Finder app is a web-based application designed to help users discover national parks based on their desired amenities and activities. Built with a Flask backend and a MongoDB database, the app provides an interactive map that displays parks matching the user's preferences. Users can filter parks by selecting from a variety of amenities and activities, and choose the season they are interested in. The app dynamically updates the map to show relevant parks, providing detailed information about each one. This tool is perfect for planning trips and exploring the best that national parks have to offer.
 
 ## Chasing Sunshine: Finding the Perfect Weather for Your National Park Adventure
 
