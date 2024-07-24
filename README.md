@@ -3,9 +3,9 @@ Melisa Morales, Victoria Scott, and Stephanie Souza (Team Three)
 
 # Wild Wonders: Unveiling US National Park Data
 
-Our powerpoint presentation can be found at "NPS ETL Team Project 3.pptx"
-
 This project involves creating ETL (Extract, Transform, Load) workflows to ingest and transform data from the National Park Service (NPS) API and Open-Meteo Weather API before storing it in a database. A chosen database, MongoDB, houses the data, comprising at least two tables or collections. The project documentation includes the rationale for the database selection and detailed documentation of the ETL workflow, supported by diagrams or an ERD.
+
+Our powerpoint presentation can be found at "NPS ETL Team Project 3.pptx"
 
 ## Park Pursuits: Exploring Activities, Amenities, and Weather
 
