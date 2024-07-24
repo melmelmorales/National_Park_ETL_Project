@@ -1,13 +1,13 @@
 # Exploring the Great Outdoors: Weather and Activities Across US National Parks
 Melisa Morales, Victoria Scott, and Stephanie Souza (Team Three)
 
-# Project Overview
+# Wild Wonders: Unveiling US National Park Data
 
 Our powerpoint presentation can be found at "NPS ETL Team Project 3.pptx"
 
 This project involves creating ETL (Extract, Transform, Load) workflows to ingest and transform data from the National Park Service (NPS) API and Open-Meteo Weather API before storing it in a database. A chosen database, MongoDB, houses the data, comprising at least two tables or collections. The project documentation includes the rationale for the database selection and detailed documentation of the ETL workflow, supported by diagrams or an ERD.
 
-## Interacting with National Park Activities, Amentities, and Weather Data Project Overview
+## Park Pursuits: Exploring Activities, Amenities, and Weather
 
 Our National Parks Finder app is a web-based application designed to help users discover national parks based on their desired amenities and activities. Built with a Flask backend and a MongoDB database, the app provides an interactive map that displays parks matching the user's preferences. Users can filter parks by selecting from a variety of amenities and activities, and choose the season they are interested in. The app dynamically updates the map to show relevant parks, providing detailed information about each one. This tool is perfect for planning trips and exploring the best that national parks have to offer.
 
