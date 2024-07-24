@@ -11,6 +11,8 @@ Our powerpoint presentation can be found at "NPS ETL Team Project 3.pptx"
 
 Our National Parks Finder app is a web-based application designed to help users discover national parks based on their desired amenities and activities. Built with a Flask backend and a MongoDB database, the app provides an interactive map that displays parks matching the user's preferences. Users can filter parks by selecting from a variety of amenities and activities, and choose the season they are interested in. The app dynamically updates the map to show relevant parks, providing detailed information about each one. This tool is perfect for planning trips and exploring the best that national parks have to offer.
 
+![test](Bonus Data Visualization/Activity Offerings By Park.png)
+
 ## Chasing Sunshine: Finding the Perfect Weather for Your National Park Adventure
 
 A heatmap plot of seasonal temperatures across US national parks can be an invaluable tool for both researchers and park visitors. By visually representing temperature variations throughout the year, the heatmap allows users to easily identify the best times to visit specific parks based on their weather preferences. For instance, those looking to avoid extreme heat can quickly pinpoint cooler seasons, while others seeking warmer conditions can identify peak times for their ideal weather. Additionally, this visualization can assist park management and conservationists in understanding climate patterns and their impact on park ecosystems, aiding in the development of strategies to protect and preserve these natural environments. Overall, a heatmap of seasonal temperatures serves as a comprehensive, user-friendly guide for making informed decisions about park visits and understanding broader climate trends.
